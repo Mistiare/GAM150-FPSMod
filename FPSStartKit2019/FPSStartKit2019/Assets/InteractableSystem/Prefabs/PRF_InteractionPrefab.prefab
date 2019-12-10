@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 392467178532704361}
   - component: {fileID: 392467178532704366}
   - component: {fileID: 4019612341848618311}
-  m_Layer: 9
+  m_Layer: 12
   m_Name: 01_RangeControl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -164,7 +164,7 @@ GameObject:
   - component: {fileID: 392467179411632217}
   - component: {fileID: 392467179411632222}
   - component: {fileID: 392467179411632223}
-  m_Layer: 10
+  m_Layer: 13
   m_Name: 02_LookAtControl
   m_TagString: Untagged
   m_Icon: {fileID: 0}

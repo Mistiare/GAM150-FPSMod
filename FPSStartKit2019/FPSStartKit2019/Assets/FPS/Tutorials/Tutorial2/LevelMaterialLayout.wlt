@@ -427,7 +427,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/FPS/Art/Materials/Level
   m_LastFoldersGridSize: 90
-  m_LastProjectPath: D:\GAM150-FPSMod\FPSStartKit2019\FPSStartKit2019
+  m_LastProjectPath: G:\Course Files\GAM150\GAM150-FPSMod\FPSStartKit2019\FPSStartKit2019
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
