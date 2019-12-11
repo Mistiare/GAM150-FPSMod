@@ -115,6 +115,14 @@ public class InGameMenuManager : MonoBehaviour
 
     }
 
+    public void QuitGame()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+    }
+
     void OnMouseSensitivityChanged(float newValue)
     {
         m_PlayerInputsHandler.lookSensitivity = newValue;
